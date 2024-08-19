@@ -1,0 +1,12 @@
+os
+requests
+bs4
+BeautifulSoup
+telebot
+types
+random
+uuid
+re
+pycountry
+time
+faker
